@@ -1,8 +1,8 @@
 module.exports = {
- server: "myserver-sqlname.database.windows.net",
- port: 1433,
- user: "meonly",
- password: "Vaibhavtest123@",
- database: "ProjectSQL",
+ server: "YOUR_DATABASE_URL",
+ port: "YOUR_DB_PORT",
+ user: "YOUR_DB_USERNAME",
+ password: "YOUR_DB_PASSWORD",
+ database: "YOUR_DB_DATABASE_NAME",
  protocol: "TLS"
 }
